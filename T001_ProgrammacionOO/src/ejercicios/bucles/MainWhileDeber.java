@@ -14,8 +14,9 @@ public class MainWhileDeber {
 		while(n!=0) {
 			System.out.println("Ingrese un numero positivo: ");
 			n=lector.nextInt();
-
+			if(n!=0) {
 				c=c+1;
+			}
 				s=s+n;
 				p=s/c;
 			
