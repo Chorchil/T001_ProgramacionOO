@@ -29,7 +29,7 @@ public class Bodega {
 			System.out.println("Precio Indivudual: "+Precio_Producto);
 			System.out.println("Precio Total: "+(Cantidad*Precio_Producto));
 			System.out.println("Gracias por preferirnos");
-			System.out.println("Y como dice Toreto 'La Familia Primero'");
+			System.out.println("Y como dice Toreto 'La Familia Primero' hasta luego");
 		}
 		
 }
