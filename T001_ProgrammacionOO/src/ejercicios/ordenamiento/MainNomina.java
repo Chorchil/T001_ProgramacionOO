@@ -84,6 +84,7 @@ public class MainNomina {
 		Arrays.sort(nominaEmpleados);
 		System.out.println("Nomina ordenada y lista");
 		System.out.println(Arrays.toString(nominaEmpleados));
+		//prueba de git
 
 	}
 
