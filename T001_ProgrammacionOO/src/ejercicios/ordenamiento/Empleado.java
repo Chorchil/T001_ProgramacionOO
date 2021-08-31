@@ -4,7 +4,7 @@ public class Empleado implements Comparable<Empleado> {
 	private String nombre;
 	private String apellido;
 	private int edad;
-
+	
 	public String getNombre() {
 		return nombre;
 	}
